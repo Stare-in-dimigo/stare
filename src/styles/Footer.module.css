@@ -1,20 +1,31 @@
 .footer {
-    padding: 5rem 0;
-    background: #232946;
+    padding: 2rem 20rem;
+    background: black;
     text-align: center;
 }
 
 .footer h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 600;
-    color: #fffffe;
+    color: whitesmoke;
 }
 
-@media (max-width: 768px) {
+.githubIcon {
+    color: whitesmoke;
+    height: 3rem;
+    margin-bottom: 1rem;
+}
 
+
+@media (max-width: 768px) {
     .footer {
-        padding: 3rem 0;
+        padding: 1rem 0;
         text-align: center;
+    }
+
+    .githubIcon {
+        height: 2rem;
+        margin-bottom: 0.8rem;
     }
 
     .footer h1 {

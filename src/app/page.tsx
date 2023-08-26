@@ -1,9 +1,9 @@
-import styles from '@/styles/page.module.css'
+import Intro from "@/components/Home/Intro";
 
 export default function Home() {
     return (
-        <div className={styles.container}>
-            <h1>This is Home</h1>
+        <div>
+            <Intro />
         </div>
     )
 }
