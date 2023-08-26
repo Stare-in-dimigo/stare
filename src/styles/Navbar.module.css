@@ -12,11 +12,8 @@
     align-items: center;
 }
 
-.navbar__logo a {
-    color: #232946;
-    font-size: 2rem;
-    font-weight: 600;
-    text-decoration: none;
+.navbar__logo img {
+    height: 1.5rem;
 }
 
 .navbar__links {
@@ -84,7 +81,7 @@
 .bar {
     width: 2rem;
     height: 0.25rem;
-    background: #fff;
+    background: #232946;
     transition: all 0.3s linear;
     position: relative;
     transform-origin: 1px;
@@ -92,6 +89,7 @@
 
 .bar1 {
     transform: rotate(45deg);
+    background: #fff;
 }
 
 .bar2 {
@@ -100,6 +98,7 @@
 
 .bar3 {
     transform: rotate(-45deg);
+    background: #fff;
 }
 
 @media (min-width: 769px) {
@@ -143,6 +142,10 @@
         position: fixed;
         top: 0;
         left: 0;
+    }
+
+    .navbar__links a {
+        color: #fff;
     }
 
     .menu {
