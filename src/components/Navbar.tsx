@@ -13,7 +13,9 @@ export default function Navbar() {
     return (
         <div className={styles.navbar}>
             <div className={styles.navbar__logo}>
-                <img className={styles.navbar__logo} src='/logo.svg'  alt='logo'/>
+                <a href='/'>
+                    <img className={styles.navbar__logo} src='/logo.svg'  alt='logo'/>
+                </a>
             </div>
             <div onClick={() => setIsOpen(!isOpen)} className={styles.menu}>
                 <div className={isOpen ? `${styles.bar} ${styles.bar1}` : styles.bar}></div>
