@@ -19,19 +19,19 @@ export default function Page() {
         <div className={styles.container}>
             <img src='/cat.svg' />
             <span className={styles.noticetrigger} onClick={handleNoticeClick}>
-                <h1>This is Notice</h1>
+                <h1>더보기</h1>
             </span>
             {isModalOpen && (
                 <div className={styles.modal}>
                     <div className={styles.modalContent}>
                         <div className={styles.betweenName}>
-                            <h2>대충 이 공지의 제목</h2>
+                            <h2>긴급 공지입니다 여러분</h2>
                         </div>
-                        <p>블라블라</p>
-                        <p>야다야다</p>
-                        <p>블라블라</p>
-                        <p>야다야다</p>
-                        <p>오 배좀 고픈데</p>
+                        <p>지금 백현서가 배가 고픕니다</p>
+                        <p>뭘 좀 먹고싶은데 먹으면 안되는걸 알고있어요</p>
+                        <p>진짜 어떡하지</p>
+                        <p>매점도 안여는데</p>
+                        <p>배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다배고프다</p>
                         <div className={styles.betweenName}>
                             <p>Important Notice</p>
                         </div>

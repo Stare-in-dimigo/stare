@@ -14,7 +14,7 @@
 
 .noticetrigger {
     cursor: pointer;
-    text-decoration: underline;
+    text-decoration: none;
     transition: opacity 0.5 ease;
 }
 
