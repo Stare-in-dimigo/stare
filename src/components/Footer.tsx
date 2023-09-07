@@ -6,7 +6,7 @@ export default function Footer() {
     return (
         <div className={styles.footer}>
             <a href="https://github.com/Stare-in-dimigo" target="_blank" rel="noopener noreferrer">
-                <FontAwesomeIcon icon={faGithub} className={styles.githubIcon} />
+                <FontAwesomeIcon icon={faGithub} className={styles.icon} />
             </a>
             <h1>&copy; 2023 Stare. All rights reserved.</h1>
         </div>

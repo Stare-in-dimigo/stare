@@ -8,11 +8,21 @@
 }
 
 .container img {
-    height: 8rem;
-    margin-right: 2rem;
-    margin-bottom: 2rem;
+    height: 6rem;
+    margin-right: 1.5rem;
+    margin-bottom: 1.5rem;
+    transition: height 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.container img:hover {
+    transform: scale(1.1);
 }
 
 .container h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    transition: height 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.container h1:hover {
+    transform: scale(1.1);
 }
