@@ -25,7 +25,7 @@ export default function Navbar() {
                 </div>
                 <div className={isOpen ? `${styles.navbar__links} ${styles.open}` : styles.navbar__links}>
                     <ul>
-                        <li><a onClick={closeSidebar} href='/introduction'>Introduction</a></li>
+                        <li><a onClick={closeSidebar} href='/'>Home</a></li>
                         <li><a onClick={closeSidebar} href='/lecture'>Lecture</a></li>
                         <li><a onClick={closeSidebar} href='/issue'>Issue</a></li>
                         <li><a onClick={closeSidebar} href='/ctf'>CTF</a></li>
