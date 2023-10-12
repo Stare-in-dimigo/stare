@@ -5,20 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7abe18d-7173-4b86-a043-9c04752395bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/styles/Home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Home/LogoImage.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Home/blacksmoke.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Home/crypto.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Home/pwn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Home/rev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Home/web.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/advanced/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/advanced/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/issue/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/issue/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/lecture/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/lecture/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/tips/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/tips/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Intro.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Advanced/Advanced.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Advanced.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Home/Intro.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Issue/Issue.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Issue.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Lecture/Lecture.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Lecture.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Tips/Tips.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Tips.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Home.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,24 +44,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/sspzoa/Documents/GitHub/stare-frontend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/sspzoa/Documents/GitHub/stare-frontend/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/sspzoa/Documents/GitHub/stare-frontend/public/Home",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "/Users/sspzoa/Documents/GitHub/stare-frontend/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/Home" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/Home" />
       <recent name="$PROJECT_DIR$/src/styles" />
     </key>
   </component>
@@ -84,7 +86,7 @@
       <workItem from="1697109868354" duration="50000" />
       <workItem from="1697109923273" duration="23000" />
       <workItem from="1697110024903" duration="472000" />
-      <workItem from="1697110829351" duration="2233000" />
+      <workItem from="1697110829351" duration="7771000" />
     </task>
     <servers />
   </component>

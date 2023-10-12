@@ -14,8 +14,7 @@
 
 .navbar {
     width: 100%;
-    max-width: 60rem;
-    padding: 0 1rem;
+    max-width: 70rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -63,7 +62,7 @@
 }
 
 .navbar__links a {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 .navbar__links li {
