@@ -8,7 +8,7 @@ export default function Footer() {
             <a href="https://github.com/Stare-in-dimigo" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faGithub} className={styles.icon} />
             </a>
-            <h1>&copy; 2023 Stare. All rights reserved.</h1>
+            <h1>&copy; 2023 STARE. All rights reserved.</h1>
         </div>
     )
 }

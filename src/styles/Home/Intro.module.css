@@ -10,24 +10,33 @@
 .logoimage {
     width: 25rem;
     height: 25rem;
-    margin-bottom: 8rem;
+    margin-bottom: 5rem;
+}
+
+.logo h1 {
+    font-size: 4rem;
+    line-height: 0.9;
+    font-weight: 600;
+    position: relative;
 }
 
 .blacksmoke {
     position: absolute;
     width: 30rem;
     height: 30rem;
-    top: 5rem;
-    left: 7rem;
+    top: 0;
+    left: -60%;
+    top: -200%;
+    z-index: -1;
 }
 
 .scroll {
     position: absolute;
     display: flex;
     flex-direction: column;
-    bottom: 5rem;
-    left:50%;
-    transform:translateX(-50%);
+    bottom: 3rem;
+    left: 50%;
+    transform: translateX(-50%);
     text-decoration: none;
     gap: 1rem;
 }
@@ -41,13 +50,7 @@
     justify-content: flex-start;
     flex-direction: column;
     gap: 1.8rem;
-    margin-bottom: 8rem;
-}
-
-.logo h1 {
-    font-size: 4rem;
-    line-height: 0.9;
-    font-weight: 600;
+    margin-bottom: 5rem;
 }
 
 .logo p {
