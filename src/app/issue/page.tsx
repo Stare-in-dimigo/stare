@@ -1,4 +1,4 @@
-import styles from '@/styles/Issue.module.css'
+import styles from '@/styles/Issue/Issue.module.css'
 
 export default function Page() {
     return (
