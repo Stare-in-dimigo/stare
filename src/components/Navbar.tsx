@@ -13,7 +13,8 @@ export default function Navbar() {
   return (
     <div className={styles.container}>
       <div className={styles.navbar}>
-        <img src='/logo.svg' className={styles.navbar__logo} />
+        <a onClick={closeSidebar} href='/'>
+          <img src='/logo.svg' className={styles.navbar__logo} /></a>
         <div onClick={() => setIsOpen(!isOpen)} className={styles.menu}>
           <div className={isOpen ? `${styles.bar} ${styles.bar1}` : styles.bar}></div>
           <div className={isOpen ? `${styles.bar} ${styles.bar2}` : styles.bar}></div>

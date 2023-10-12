@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7abe18d-7173-4b86-a043-9c04752395bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/styles/Home.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/advanced/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/advanced/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Intro.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Intro.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/CTF/CTF.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Advanced/Advanced.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/issue/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/issue/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/lecture/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/lecture/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/tips/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/tips/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Intro.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Advanced/Advanced.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Advanced.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Home/Intro.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Issue/Issue.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Issue.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Lecture/Lecture.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Lecture.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Tips/Tips.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Tips.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +63,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/styles" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +84,7 @@
       <workItem from="1697109868354" duration="50000" />
       <workItem from="1697109923273" duration="23000" />
       <workItem from="1697110024903" duration="472000" />
-      <workItem from="1697110829351" duration="452000" />
+      <workItem from="1697110829351" duration="2233000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-import styles from '@/styles/Lecture/Lecture.module.css'
+import styles from '@/styles/Lecture.module.css'
 
 export default function Page() {
     return (

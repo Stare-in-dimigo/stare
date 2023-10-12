@@ -1,4 +1,4 @@
-import styles from '@/styles/Advanced/Advanced.module.css'
+import styles from '@/styles/Advanced.module.css'
 
 export default function Page() {
     return (

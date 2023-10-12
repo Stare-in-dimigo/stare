@@ -2,7 +2,7 @@
 "use client";
 
 import { useState, useEffect } from 'react';
-import styles from '@/styles/Tips/Tips.module.css';
+import styles from '@/styles/Tips.module.css';
 
 export default function Page() {
     const [isModalOpen, setIsModalOpen] = useState(false);
