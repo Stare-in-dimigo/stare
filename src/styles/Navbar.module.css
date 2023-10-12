@@ -28,7 +28,7 @@
     text-decoration: none;
 }
 
-.navbar__logo img {
+.navbar__logo {
     height: 1.5rem;
 }
 
@@ -63,11 +63,11 @@
 }
 
 .navbar__links a {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 
 .navbar__links li {
-    margin: 0.5rem 0;
+    margin: 1rem 0;
     transition: transform 0.2s ease-in-out, transform 0.2s ease-in-out;
 }
 
