@@ -13,7 +13,7 @@ export default function Intro() {
                     연구하고 있는 동아리 STARE입니다.</p>
             </div>
             <img className={styles.logoimage} src='/Home/LogoImage.svg'/>
-            <a href="#lecture" className={styles.scroll}>스크롤해서 더보기<img src="/Home/arrow.svg" /></a>
+            <a href="#lecture" className={styles.scroll}>스크롤해서 더보기<img src="/Home/arrow.svg"/></a>
         </div>
     )
 }

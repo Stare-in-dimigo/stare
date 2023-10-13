@@ -1,7 +1,6 @@
-
 "use client";
 
-import { useState, useEffect } from 'react';
+import {useState} from 'react';
 import styles from '@/styles/Tips/Tips.module.css';
 
 export default function Page() {
@@ -17,7 +16,7 @@ export default function Page() {
 
     return (
         <div className={styles.container}>
-            <img src='/cat.svg' />
+            <img src='/cat.svg'/>
             <span className={styles.noticetrigger} onClick={handleNoticeClick}>
                 <h1>더보기</h1>
             </span>

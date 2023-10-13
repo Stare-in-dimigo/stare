@@ -7,9 +7,9 @@ export default function Home() {
     return (
         <div className={styles.container}>
             <div className={styles.content}>
-                <Intro />
-                <LectureIntro />
-                <Vision />
+                <Intro/>
+                <LectureIntro/>
+                <Vision/>
             </div>
         </div>
     )
