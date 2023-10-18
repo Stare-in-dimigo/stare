@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b7abe18d-7173-4b86-a043-9c04752395bf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Home/Intro.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Home/Intro.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/sspzoa/Documents/GitHub/stare-frontend/public/Home",
+    "last_opened_file_path": "/Users/sspzoa/Documents/GitHub/stare-frontend",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -82,7 +84,9 @@
       <workItem from="1697109868354" duration="50000" />
       <workItem from="1697109923273" duration="23000" />
       <workItem from="1697110024903" duration="472000" />
-      <workItem from="1697110829351" duration="12731000" />
+      <workItem from="1697110829351" duration="13591000" />
+      <workItem from="1697184757285" duration="52000" />
+      <workItem from="1697629205251" duration="3204000" />
     </task>
     <servers />
   </component>

@@ -21,7 +21,6 @@
 }
 
 .navbar a {
-    color: black;
     display: flex;
     align-items: center;
     text-decoration: none;
@@ -110,6 +109,10 @@
 .bar3 {
     transform: rotate(-45deg);
     background: whitesmoke;
+}
+
+.active {
+    font-weight: bold;
 }
 
 @media (min-width: 769px) {
